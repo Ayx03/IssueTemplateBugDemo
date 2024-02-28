@@ -1,5 +1,5 @@
 # IssueTemplateBugDemo
-A demo of the GitHub issue template bug. The bug has been fixed.
+A demo of the GitHub issue template bug. The bug has been fixed. Thanks and respect to GitHub engineers and Allan H from the support team!
 
 
 GitHub 支持
